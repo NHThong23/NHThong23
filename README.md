@@ -3,20 +3,18 @@
 ## 🧑‍💻 About Me
 - 🎓 Student
 - 💡 Interested in: Programming, AI, Compiler
-- 🌱 Currently learning: Data Structures, Machine Learning
+- 🌱 Has learned: Data structure and algorithm, Database, Computer Networking,...
 - 🎯 Goal: Become a Software Engineer
 
 ## 🛠️ Skills
-- **Languages:** C++, Python  
-- **Tools:** Git, VS Code  
+- **Languages:** C++, Python, Java, ANTLR4, HTML, CSS, SQL. 
+- **Tools:** Git, VS Code, Linux.
+- **Database:** MySQL, SQL server.
 - **Libraries:** xtensor  
-
-## 📂 Projects
-- **Project 1** – Short description  
-- **Project 2** – Short description  
 
 ## 📊 GitHub Stats
 ![Thong's GitHub stats](https://github-readme-stats.vercel.app/api?username=NHThong23&show_icons=true)
 
 ## 📫 Contact
 - GitHub: https://github.com/NHThong23
+- Facebook: https://www.facebook.com/thong.hoang.501613
