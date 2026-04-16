@@ -16,8 +16,7 @@
 - **Project 2** – Short description  
 
 ## 📊 GitHub Stats
-![Thong's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![Thong's GitHub stats](https://github-readme-stats.vercel.app/api?username=NHThong23&show_icons=true)
 
 ## 📫 Contact
-- Email: your-email@example.com  
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/NHThong23
