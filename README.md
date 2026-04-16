@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Thông
 
-<!--
-**NHThong23/NHThong23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+- 🎓 Student
+- 💡 Interested in: Programming, AI, Compiler
+- 🌱 Currently learning: Data Structures, Machine Learning
+- 🎯 Goal: Become a Software Engineer
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** C++, Python  
+- **Tools:** Git, VS Code  
+- **Libraries:** xtensor  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- **Project 1** – Short description  
+- **Project 2** – Short description  
+
+## 📊 GitHub Stats
+![Thong's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+
+## 📫 Contact
+- Email: your-email@example.com  
+- GitHub: https://github.com/your-username
